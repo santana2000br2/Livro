@@ -1,0 +1,58 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+a{
+    text-align: center;
+}
+.botao-comprar{
+    font-size:20px;
+    border: 1px solid #49B970;
+    background-color: #49B970;
+    color:#f5f5f5;
+    border-radius: 20px ;
+    transition: background-color 0.3s;
+    text-align: center;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-weight:bold;
+    display: inline-block;
+    margin: 0 auto;
+
+    
+}
+.botao-comprar:hover{
+    background-color: #cc7a00;
+}
+.container{
+    text-align: center;
+}
+div{
+    border-top:1px solid #d5d5d5;
+    text-align: center;
+}
+head{
+    border-top:1px solid #d5d5d5;
+   
+}
+span{
+    font-weight: bold;
+}
+.livro {
+  display: block;
+  margin: 0 auto;
+  width: 300px;      /* ou porcentagem, ex: 50% */
+  height: auto;      /* mantém a proporção */
+}
+
+.zezim {
+  display: block;
+  margin: 0 auto;
+  width: 300px;      /* ou porcentagem, ex: 50% */
+  height: auto;      /* mantém a proporção */
+}
+p{
+    text-align: center;
+}
